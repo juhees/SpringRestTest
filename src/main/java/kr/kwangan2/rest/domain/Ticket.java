@@ -9,4 +9,5 @@ public class Ticket {
 	private String owner;
 	private String grade;
 	
+	
 }
